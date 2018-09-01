@@ -1,2 +1,3 @@
 # zhangjian
-This is a learning software development code and project
+This is a 
+public static void main(String ()args){}
